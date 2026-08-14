@@ -1,6 +1,6 @@
 # DMRobinsonypdameprop1
 ## Talifhani Malungwana ST10502761 DISD0601
-## Organisation overview:
+### Organisation overview:
 ### Name: 
 The organisation is named the Connectional Young People ‘s and Children’s Division (YPD) , a division of the Women’s Missionary Society of the African Methodist Episcopal Church. We will be focusing on the YPD located in the Darie Mae Robinson Chapel AME.( (Church., 2024)
 ### Brief History:

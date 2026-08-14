@@ -127,3 +127,13 @@ Once the planning stage is complete, **content and page structure** will be deve
 The following stage will involve **content implementation**, where text, images, YPD information, events, contact details and enquiry forms will be added to the website. **CSS and visual design** will then be applied to create a consistent appearance across the website, including the YPD colour scheme, fonts, spacing, buttons, navigation and page styling. After development, **testing and corrections** will be conducted to ensure that all links, forms, images and navigation work correctly, while spelling, formatting and HTML/CSS errors will also be corrected.
 
 The project will then proceed to **user experience testing**, where the website will be checked to ensure that it is easy to navigate and functions correctly across different screen sizes. **Final improvements** will be made based on the results of testing as well as feedback received from the lecturer and peers. The final stages will involve **documentation**, where the proposal or process document, references, screenshots and supporting evidence will be completed. Finally, **submission preparation** will be completed by conducting a final quality check, organising all files and folders, preparing the required submission package and submitting the completed website project.
+### Site map
+1.events.html
+2.gallery.html
+3.Aboutus.html
+4.Enquiries.html
+### Changelog
+1.I changed the bullet points into numeric form.
+2. I included intext referencing in most of the information.
+3.A detailed format was used for website features and requirements.
+4.I highlighted the important information in the timeline and milestones.

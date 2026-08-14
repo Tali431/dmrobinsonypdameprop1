@@ -135,5 +135,5 @@ The project will then proceed to **user experience testing**, where the website 
 ### Changelog
 1.I changed the bullet points into numeric form.
 2. I included intext referencing in most of the information.
-3.A detailed format was used for website features and requirements.
-4.I highlighted the important information in the timeline and milestones.
+3. A detailed format was used for website features and requirements.
+4. I highlighted the important information in the timeline and milestones.

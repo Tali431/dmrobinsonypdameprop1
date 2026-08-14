@@ -137,3 +137,11 @@ The project will then proceed to **user experience testing**, where the website 
 2. I included intext referencing in most of the information.
 3. A detailed format was used for website features and requirements.
 4. I highlighted the important information in the timeline and milestones.
+### Reference
+1.  https://ameypd.org/
+2.   https://developer.mozilla.org/en-S/docs/Web/Accessibility/Guides/Understanding_WCAG/Perceivable/
+[Accessed 07 August 2026].
+3. W3C Web Accessibility Initiative: Colors with Good Contrast
+ 
+ 
+   

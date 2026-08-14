@@ -128,12 +128,12 @@ The following stage will involve **content implementation**, where text, images,
 
 The project will then proceed to **user experience testing**, where the website will be checked to ensure that it is easy to navigate and functions correctly across different screen sizes. **Final improvements** will be made based on the results of testing as well as feedback received from the lecturer and peers. The final stages will involve **documentation**, where the proposal or process document, references, screenshots and supporting evidence will be completed. Finally, **submission preparation** will be completed by conducting a final quality check, organising all files and folders, preparing the required submission package and submitting the completed website project.
 ### Site map
-1.events.html
-2.gallery.html
-3.Aboutus.html
-4.Enquiries.html
+1. events.html
+2. gallery.html
+3. Aboutus.html
+4. Enquiries.html
 ### Changelog
-1.I changed the bullet points into numeric form.
+1. I changed the bullet points into numeric form.
 2. I included intext referencing in most of the information.
 3. A detailed format was used for website features and requirements.
 4. I highlighted the important information in the timeline and milestones.

@@ -36,3 +36,86 @@ the primary target audience of the Connectional YPD is children, teenagers, and 
 9. Increase Your Online Presence :Increase the presence of the church on the internet with an informative website. (Norris, 2016) Reach out to people who are looking for churches or youth ministries on the internet.
    10. Engage the Community : Motivate volunteers to join in the community service activities provided by the YPD. (African Methodist Episcopal, 2025) Share with the members and the community in general the findings of the outreach projects.
 11.	Get Comments and Questions :Allow the submission of questions, prayers, suggestions, and contact information from guests and members.  Improve communication between the congregation and church leadership.
+### Proposed Website features and requirements: 
+Home Page (Index): The Home page will serve as the landing page of the website. It will welcome visitors and provide a brief introduction to the DM Robinson AME YPD. The page will include: 
+a.	Welcome message 
+b.	Church and YPD logo 
+c.	Navigation menu 
+d.	Featured upcoming events 
+e.	Inspirational Bible verse 
+f.	Quick links to other pages 
+Functionality
+i.	Easy navigation to all pages 
+ii.	Buttons linking to Events, About Us and Contact Us 
+iii.	Responsive layout for desktop and mobile devices
+•	About Us :This page will provide information about the organisation, including:
+1.	Brief history of the YPD 
+2.	Mission and vision 
+3.	Objectives 
+4.	Leadership structure (President, Vice-President, Secretary, etc.) 
+5.	Target audience 
+Functionality
+i.	Text and images 
+ii.	Easy-to-read layout 
+iii.	Links to other pages 
+•	Events and Programmes (Services) :Instead of products, the website will showcase the services and activities offered by the YPD.Examples include:
+1.	Sunday Youth Services 
+2.	Bible Study 
+3.	Youth Fellowship 
+4.	Community Outreach 
+5.	Fundraising Events 
+6.	Conferences and Camps 
+7.	Leadership Development Programmes 
+Functionality
+I.	Event descriptions 
+II.	Event dates and times 
+III.	Downloadable event programme (optional)
+•	Gallery : The Gallery page will display photographs of:
+1.	Youth conferences 
+2.	Church services 
+3.	Outreach programmes 
+4.	Fundraising activities 
+5.	Youth camps 
+Functionality
+I.	Image gallery 
+II.	Captions for each image
+•	Contact Us :This page will allow visitors to contact the organisation. It will include:
+1.	Church address 
+2.	Telephone number 
+3.	Email address 
+4.	Social media links 
+5.	Map showing the church location (future enhancement) 
+Functionality
+I.	Contact information 
+II.	Clickable email and phone links 
+III.	Navigation back to the Home page
+•	Enquiries: The Enquiries page will allow visitors to ask questions or request information. The page will contain an enquiry form with:
+A.	Full Name 
+B.	Email Address 
+C.	Phone Number 
+D.	Subject 
+E.	Message 
+F.	Submit button 
+Functionality
+i.	HTML form 
+ii.	Required input fields 
+iii.	Basic form validation using HTML attributes (required, email)
+•	News and Announcements : This page will keep members informed about:
+A.	Upcoming meetings 
+B.	Church announcements 
+C.	Youth achievements 
+D.	Prayer requests 
+E.	Community projects 
+Functionality
+i.	News articles 
+ii.	Announcement section 
+iii.	Recent updates
+•	Resources :This page will provide useful information for members. Examples:
+a.	Bible verses 
+b.	Devotionals 
+c.	Church newsletters 
+d.	Event schedules 
+e.	Downloadable documents 
+Functionality
+i.	Download links 
+ii.	Organised content sections
